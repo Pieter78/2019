@@ -49,6 +49,9 @@
 
 - Emacs
 
+- Heroku
+- Linodes
+
 ### Do / Play
 
 - The nature of code
