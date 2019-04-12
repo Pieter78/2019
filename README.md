@@ -34,6 +34,8 @@
 - Docker
 - Babel/Webpack
 
+- nginx
+
 ### Explore
 
 - Machine learning
