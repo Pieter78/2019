@@ -51,6 +51,7 @@
 
 - Heroku
 - Linodes
+- Web Assembly
 
 ### Do / Play
 
