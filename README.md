@@ -29,6 +29,10 @@
 - Regular expressions
 - WebGL
 
+- Vagrant/VM
+- Docker
+- Babel/Webpack
+
 ### Explore
 
 - Machine learning
