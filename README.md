@@ -13,6 +13,8 @@
 - MySQL
 - NodeJS
 
+- Git
+
 - Algebra
 - Probability & Statistics
 
