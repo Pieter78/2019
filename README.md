@@ -10,7 +10,7 @@
 - GraphQL
 - CSS
 - Testing
-- MySQL
+- MySQL  
 
 - Algebra
 - Probability & Statistics
@@ -18,22 +18,23 @@
 ### Learn (basics/new skill)
 
 - Data Structures and Algorithms
-- Design Patterns
+- Design Patterns  
 
 - Clojure
-- C/C++
+- C/C++  
 
 - Shell scripting
 - Linux administration
 - sed/awk
 - Regular expressions
+- WebGL
 
 ### Explore
 
 - Machine learning
 - Artificial Intelligence
 - Electronics
-- Assembly
+- Assembly  
 
 - Emacs
 
