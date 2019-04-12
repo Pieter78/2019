@@ -13,6 +13,8 @@
 - MySQL
 - NodeJS
 
+- HTTP/Headers
+
 - Git
 
 - Algebra
