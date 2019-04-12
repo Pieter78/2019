@@ -1,38 +1,42 @@
-# Master
+### Master
 
-Javascript
-React
+- Javascript
+- React
+- vim
 
-# Study (in-depth)
+### Study (in-depth)
 
-Typescript
-GraphQL
-CSS
-Testing
-MySQL
+- Typescript
+- GraphQL
+- CSS
+- Testing
+- MySQL
 
-Algebra
-Probability & Statistics
+- Algebra
+- Probability & Statistics
 
-# Learn (basics/new skill)
+### Learn (basics/new skill)
 
-Data Structures and Algorithms
-Design Patterns
+- Data Structures and Algorithms
+- Design Patterns
 
-Clojure
-C/C++
+- Clojure
+- C/C++
 
-Shell scripting
-Linux administration
-sed/awk
+- Shell scripting
+- Linux administration
+- sed/awk
+- Regular expressions
 
-# Explore
+### Explore
 
-Machine learning
-Artificial Intelligence
-Electronics
-Assembly
+- Machine learning
+- Artificial Intelligence
+- Electronics
+- Assembly
 
-# Do
+- Emacs
 
-The nature of code
+### Do
+
+- The nature of code
