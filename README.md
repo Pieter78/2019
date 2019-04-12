@@ -43,6 +43,6 @@
 
 - Emacs
 
-### Do
+### Do / Play
 
 - The nature of code
