@@ -10,7 +10,8 @@
 - GraphQL
 - CSS
 - Testing
-- MySQL  
+- MySQL
+- NodeJS
 
 - Algebra
 - Probability & Statistics
