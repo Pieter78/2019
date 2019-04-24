@@ -56,3 +56,4 @@
 ### Do / Play
 
 - The nature of code
+- Professor Frisby's Mostly Aqequeate Guide to Functional Programming
